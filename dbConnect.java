@@ -14,7 +14,7 @@ public class dbConnect {
     try {
         dbConnect db = new dbConnect();
         Connection conn = db.getConnection();
-        System.out.println("✅ Connection successful: " + conn);
+        System.out.println("Connection successful: " + conn);
         conn.close();
     } catch (Exception e) {
         e.printStackTrace();

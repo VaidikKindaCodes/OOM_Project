@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "flatlaf-3.4.1.jar",
+        "jcalendar-1.4.jar",
+        "mysql-connector-j-9.5.0.jar"
+    ]
+}
